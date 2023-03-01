@@ -1,0 +1,3 @@
+[submodule "dataModel.ManufacturingMachine"]
+	path = dataModel.ManufacturingMachine
+	url = https://github.com/smart-data-models/dataModel.ManufacturingMachine.git

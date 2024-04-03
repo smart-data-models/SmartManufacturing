@@ -11,6 +11,7 @@ This GitHub repository contains links to the repositories where different groups
 
 ## List of subjects
 
+* [dataModel.AAS](https://github.com/smart-data-models/dataModel.AAS)
 * [dataModel.ManufacturingMachine](https://github.com/smart-data-models/dataModel.ManufacturingMachine)
 ## Support
 If you want to be updated you can subscribe to the mail list (one message a week) in this [link](https://smartdatamodels.org/index.php/subscriptions-page/)

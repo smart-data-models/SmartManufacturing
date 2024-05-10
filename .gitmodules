@@ -1,3 +1,6 @@
 [submodule "dataModel.AAS"]
 	path = dataModel.AAS
 	url = https://github.com/smart-data-models/dataModel.AAS.git
+[submodule "dataModel.ManufacturingMachine"]
+	path = dataModel.ManufacturingMachine
+	url = https://github.com/smart-data-models/dataModel.ManufacturingMachine.git

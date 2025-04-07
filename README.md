@@ -13,6 +13,7 @@ This GitHub repository contains links to the repositories where different groups
 
 * [dataModel.AAS](https://github.com/smart-data-models/dataModel.AAS)
 * [dataModel.ManufacturingMachine](https://github.com/smart-data-models/dataModel.ManufacturingMachine)
+* [dataModel.PredictiveMaintenance](https://github.com/smart-data-models/dataModel.PredictiveMaintenance)
 ## Support
 If you want to be updated you can subscribe to the mail list (one message a week) in this [link](https://smartdatamodels.org/index.php/subscriptions-page/)
 You can also rise an issue on this [link](https://smartdatamodels.org/index.php/submit-an-issue-2/)

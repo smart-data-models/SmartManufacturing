@@ -7,3 +7,6 @@
 [submodule "dataModel.PredictiveMaintenance"]
 	path = dataModel.PredictiveMaintenance
 	url = https://github.com/smart-data-models/dataModel.PredictiveMaintenance.git
+[submodule "dataModel.IndustrialProcess"]
+	path = dataModel.IndustrialProcess
+	url = https://github.com/smart-data-models/dataModel.IndustrialProcess.git

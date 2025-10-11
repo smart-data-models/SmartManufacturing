@@ -12,6 +12,7 @@ This GitHub repository contains links to the repositories where different groups
 ## List of subjects
 
 * [dataModel.AAS](https://github.com/smart-data-models/dataModel.AAS)
+* [dataModel.IndustrialProcess](https://github.com/smart-data-models/dataModel.IndustrialProcess)
 * [dataModel.ManufacturingMachine](https://github.com/smart-data-models/dataModel.ManufacturingMachine)
 * [dataModel.PredictiveMaintenance](https://github.com/smart-data-models/dataModel.PredictiveMaintenance)
 ## Support
